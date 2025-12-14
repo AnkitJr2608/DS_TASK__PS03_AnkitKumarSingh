@@ -1,0 +1,294 @@
+{
+  "type": "FeatureCollection",
+  "name": "GC01PS03D0155",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": null,
+        "Class Name": "Solar Panel"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                159,
+                853
+              ],
+              [
+                159,
+                797
+              ],
+              [
+                331,
+                797
+              ],
+              [
+                331,
+                853
+              ],
+              [
+                159,
+                853
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": null,
+        "Class Name": "Solar Panel"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                1579,
+                873
+              ],
+              [
+                1579,
+                827
+              ],
+              [
+                1936,
+                827
+              ],
+              [
+                1936,
+                873
+              ],
+              [
+                1579,
+                873
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": null,
+        "Class Name": "Solar Panel"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                2458,
+                948
+              ],
+              [
+                2458,
+                771
+              ],
+              [
+                2499,
+                771
+              ],
+              [
+                2499,
+                948
+              ],
+              [
+                2458,
+                948
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": null,
+        "Class Name": "Solar Panel"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                1134,
+                1844
+              ],
+              [
+                1134,
+                1778
+              ],
+              [
+                1213,
+                1778
+              ],
+              [
+                1213,
+                1844
+              ],
+              [
+                1134,
+                1844
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": null,
+        "Class Name": "Solar Panel"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                1551,
+                1291
+              ],
+              [
+                1551,
+                1239
+              ],
+              [
+                1648,
+                1239
+              ],
+              [
+                1648,
+                1291
+              ],
+              [
+                1551,
+                1291
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": null,
+        "Class Name": "Solar Panel"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                1487,
+                565
+              ],
+              [
+                1487,
+                506
+              ],
+              [
+                1655,
+                506
+              ],
+              [
+                1655,
+                565
+              ],
+              [
+                1487,
+                565
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": null,
+        "Class Name": "Solar Panel"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                76,
+                198
+              ],
+              [
+                76,
+                167
+              ],
+              [
+                159,
+                167
+              ],
+              [
+                159,
+                198
+              ],
+              [
+                76,
+                198
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": null,
+        "Class Name": "Solar Panel"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                3052,
+                103
+              ],
+              [
+                3052,
+                62
+              ],
+              [
+                3193,
+                62
+              ],
+              [
+                3193,
+                103
+              ],
+              [
+                3052,
+                103
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

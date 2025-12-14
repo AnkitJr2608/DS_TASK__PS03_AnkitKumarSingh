@@ -1,0 +1,330 @@
+{
+  "type": "FeatureCollection",
+  "name": "GC01PS03D0123",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": null,
+        "Class Name": "Sheds"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                1781,
+                1157
+              ],
+              [
+                1781,
+                1063
+              ],
+              [
+                2011,
+                1063
+              ],
+              [
+                2011,
+                1157
+              ],
+              [
+                1781,
+                1157
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": null,
+        "Class Name": "Sheds"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                2177,
+                773
+              ],
+              [
+                2177,
+                683
+              ],
+              [
+                2225,
+                683
+              ],
+              [
+                2225,
+                773
+              ],
+              [
+                2177,
+                773
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": null,
+        "Class Name": "Sheds"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                606,
+                1175
+              ],
+              [
+                606,
+                1125
+              ],
+              [
+                675,
+                1125
+              ],
+              [
+                675,
+                1175
+              ],
+              [
+                606,
+                1175
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": null,
+        "Class Name": "Sheds"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                1588,
+                623
+              ],
+              [
+                1588,
+                523
+              ],
+              [
+                1642,
+                523
+              ],
+              [
+                1642,
+                623
+              ],
+              [
+                1588,
+                623
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": null,
+        "Class Name": "Sheds"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                1942,
+                961
+              ],
+              [
+                1942,
+                909
+              ],
+              [
+                2019,
+                909
+              ],
+              [
+                2019,
+                961
+              ],
+              [
+                1942,
+                961
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": null,
+        "Class Name": "Sheds"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                2123,
+                985
+              ],
+              [
+                2123,
+                942
+              ],
+              [
+                2195,
+                942
+              ],
+              [
+                2195,
+                985
+              ],
+              [
+                2123,
+                985
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": null,
+        "Class Name": "Sheds"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                1093,
+                702
+              ],
+              [
+                1093,
+                585
+              ],
+              [
+                1188,
+                585
+              ],
+              [
+                1188,
+                702
+              ],
+              [
+                1093,
+                702
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": null,
+        "Class Name": "Sheds"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                2229,
+                676
+              ],
+              [
+                2229,
+                622
+              ],
+              [
+                2272,
+                622
+              ],
+              [
+                2272,
+                676
+              ],
+              [
+                2229,
+                676
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": null,
+        "Class Name": "Sheds"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                1989,
+                610
+              ],
+              [
+                1989,
+                497
+              ],
+              [
+                2069,
+                497
+              ],
+              [
+                2069,
+                610
+              ],
+              [
+                1989,
+                610
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

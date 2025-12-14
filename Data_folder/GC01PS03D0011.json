@@ -1,0 +1,330 @@
+{
+  "type": "FeatureCollection",
+  "name": "GC01PS03D0011",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "Class Name": "Brick Kiln"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                1561,
+                623
+              ],
+              [
+                1561,
+                592
+              ],
+              [
+                1601,
+                592
+              ],
+              [
+                1601,
+                623
+              ],
+              [
+                1561,
+                623
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "Class Name": "Brick Kiln"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                1689,
+                646
+              ],
+              [
+                1689,
+                616
+              ],
+              [
+                1724,
+                616
+              ],
+              [
+                1724,
+                646
+              ],
+              [
+                1689,
+                646
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "Class Name": "Brick Kiln"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                1629,
+                681
+              ],
+              [
+                1629,
+                641
+              ],
+              [
+                1656,
+                641
+              ],
+              [
+                1656,
+                681
+              ],
+              [
+                1629,
+                681
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "Class Name": "Brick Kiln"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                1461,
+                774
+              ],
+              [
+                1461,
+                735
+              ],
+              [
+                1485,
+                735
+              ],
+              [
+                1485,
+                774
+              ],
+              [
+                1461,
+                774
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "Class Name": "Brick Kiln"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                1501,
+                548
+              ],
+              [
+                1501,
+                521
+              ],
+              [
+                1534,
+                521
+              ],
+              [
+                1534,
+                548
+              ],
+              [
+                1501,
+                548
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "Class Name": "Brick Kiln"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                1720,
+                612
+              ],
+              [
+                1720,
+                584
+              ],
+              [
+                1754,
+                584
+              ],
+              [
+                1754,
+                612
+              ],
+              [
+                1720,
+                612
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "Class Name": "Brick Kiln"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                1099,
+                553
+              ],
+              [
+                1099,
+                514
+              ],
+              [
+                1117,
+                514
+              ],
+              [
+                1117,
+                553
+              ],
+              [
+                1099,
+                553
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "Class Name": "Brick Kiln"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                1264,
+                191
+              ],
+              [
+                1264,
+                153
+              ],
+              [
+                1290,
+                153
+              ],
+              [
+                1290,
+                191
+              ],
+              [
+                1264,
+                191
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "Class Name": "Brick Kiln"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                627,
+                418
+              ],
+              [
+                627,
+                386
+              ],
+              [
+                667,
+                386
+              ],
+              [
+                667,
+                418
+              ],
+              [
+                627,
+                418
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
